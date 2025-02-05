@@ -1,0 +1,7 @@
+admin
+acc: admin
+pass: admin
+
+Khách
+acc: fdsa
+pass: 12345
