@@ -1,7 +1,7 @@
 # Cửa hàng bán đồ thể thao Trí Hoà
 
 ## Demo
-Xem trang web tại https://bandothethaotrihoa.somee.com/
+Xem trang web tại http://bandothethaotrihoa.somee.com/
 
 ## Giới thiệu
 > Đây là dự án cá nhân, được xây dựng bằng ASP.NET Web Forms.
