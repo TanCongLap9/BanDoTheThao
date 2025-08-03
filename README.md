@@ -1,8 +1,5 @@
 # Cửa hàng bán đồ thể thao Trí Hoà
 
-## Demo
-Xem trang web tại http://bandothethaotrihoa.somee.com/
-
 ## Giới thiệu
 Bạn đang tìm kiếm trang phục thể thao chất lượng cao để nâng tầm hiệu suất tập luyện? Hay đơn giản là muốn sở hữu những phụ kiện thể thao thời thượng để thể hiện cá tính? Hãy đến với cửa hàng Trí Hoà, nơi đam mê thể thao được chắp cánh! 
 
